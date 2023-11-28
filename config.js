@@ -11,13 +11,13 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Axel',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep!',
@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
