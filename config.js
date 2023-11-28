@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Youtube',
-			icon: 'trello',
+			icon: 'youtube.avif',
 			link: 'https://www.youtube.com/',
 		},
 		{
