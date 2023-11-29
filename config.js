@@ -61,12 +61,12 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
 			name: 'Youtube',
-			icon: 'youtube.avif',
+			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
 		{
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'GC',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://classroom.google.com/a/not-turned-in/all',
 		},
 		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'DREWnet',
+			icon: 'school',
+			link: 'https://drewschool.myschoolapp.com/app/student#studentmyday/assignment-center',
 		},
 	],
 
@@ -93,8 +93,8 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			icon: 'piano',
+			link: 'spotify://',
 		},
 		{
 			id: '2',
