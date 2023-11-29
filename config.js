@@ -21,7 +21,6 @@ const CONFIG = {
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep!',
-	greetingQuestion: '. Where would you like to go?
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
