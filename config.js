@@ -116,13 +116,13 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Coursere',
+			name: 'Coursera',
 			icon: 'graduation-cap',
 			link: 'https://www.coursera.org/',
 		},
 		{
 			id: '6',
-			name: 'Docs',
+			name: 'Google Docs',
 			icon: 'file-text',
 			link: 'https://docs.google.com/document/u/0/?tgif=d',
 		},
