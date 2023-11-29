@@ -12,6 +12,7 @@ const gree2 = `${CONFIG.greetingMorning}\xa0`;
 const gree3 = `${CONFIG.greetingAfternoon}\xa0`;
 const gree4 = `${CONFIG.greetingEvening}\xa0`;
 
+//Text after greeting
 const question = `${CONFIG.greetingQuestion}\xa0`;
 
 if (hour >= 23 || hour < 6) {
