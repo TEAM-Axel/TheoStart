@@ -111,7 +111,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Khan Academy',
-			icon: 'brain-circut',
+			icon: 'brain',
 			link: 'https://www.khanacademy.org/profile/me/assignments/teacher/kaid_1064461583488717366514290/class/6019820238454784',
 		},
 		{
