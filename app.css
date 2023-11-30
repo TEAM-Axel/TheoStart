@@ -17,8 +17,8 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: ##ffffff; /* Foreground color */
-  --sfg: ##ffffff; /* Sceondary Foreground color */
+  --fg: #ffffff; /* Foreground color */
+  --sfg: #000000; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #eb6b34; /* Hover color */
@@ -41,7 +41,7 @@
 
   /* Fonts Color */
   --fg:  #ffffff; /* Foreground color */
-  --sfg: #ffffff; /* Secondary Foreground color */
+  --sfg: #000000; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
