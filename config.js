@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Travis',
+			icon: 'mic-2',
+			link: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0Y5tJX1MQlPlqiwlOH1tJY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
 		},
 		{
 			id: '3',
