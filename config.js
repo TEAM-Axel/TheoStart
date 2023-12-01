@@ -96,9 +96,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Travis',
-			icon: 'mic-2',
-			link: '',
+			name: 'Chats',
+			icon: 'message-square',
+			link: 'google_chat://',
 		},
 		{
 			id: '3',
